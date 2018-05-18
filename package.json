@@ -1,0 +1,24 @@
+{
+  "name": "tdd-na-pratica",
+  "version": "1.0.0",
+  "description": "Curso de TDD, nossa lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMouraFrontend/js-tdd-courseWillian.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib"
+  ],
+  "author": "Rafael Moura <rafael.mouraweb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelMouraFrontend/js-tdd-courseWillian/issues"
+  },
+  "homepage": "https://github.com/RafaelMouraFrontend/js-tdd-courseWillian#readme"
+}
